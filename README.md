@@ -37,6 +37,7 @@ The processed data is used for training 8 hybrid models (2 validation modes × 4
 
 3. Steps to Replicate Results
 Run the main.py file can gnerate the project's results plot
+To see results of different datasets, change the directory in main file and change the color list as well.
 
 4. Model Architectures (8 Total)
 The framework trains 4 model types across 2 validation modes:
